@@ -1,4 +1,4 @@
-e65d63e9466164bd7589ae00708d897f *DESCRIPTION
+ae8a27c3be60d8bfd6a9dbfed6fda7cd *DESCRIPTION
 976861cda1588338545dc222e269f6a0 *NAMESPACE
 bd733acc87a1845eb53fcec5fa3479e7 *NEWS.md
 2efd44c3a4ba1fa665dc1eefb76f7a45 *R/RcppExports.R
@@ -24,10 +24,10 @@ c0d21998029e0790b6726676dd5c596b *R/s2-transformers.R
 7d6c8ec43636fe510371d59b10779f56 *R/wk-utils.R
 19c464dadf9f81ad0a06f2486c16b076 *R/zzz.R
 6688abfc066f7b9fdeed0c45eb162e33 *README.md
-533839446f70bde34a1050627ce80586 *build/partial.rdb
+21c9401b8c07f38d762ade4612fc4ffe *build/partial.rdb
 e807b15796c897df22af199b37115a86 *cleanup
 f9371fd323ed155891ad627f82b49869 *cleanup.win
-ee2450929c775576edc320a237361491 *configure
+1c6773c337213db2028377c9bf1d59ca *configure
 f6af5ffad723ee0fd9d9fa1c0e188cdd *configure.win
 885346a0f57b92fd80b41b8afac11bad *data/s2_data_example_wkt.rda
 e59a2d1d70e5a35ca7a5d9bc17ff9554 *data/s2_data_tbl_cities.rda
@@ -534,7 +534,7 @@ dde28d12969cb6df933b96f90b287506 *tools/vendor/abseil-cpp/absl/container/interna
 a8db9c2e305ee7ddc082d6d1bcf74103 *tools/vendor/abseil-cpp/absl/container/internal/node_slot_policy.h
 a9be13d89a92db4fafa7bdaeb52240d3 *tools/vendor/abseil-cpp/absl/container/internal/raw_hash_map.h
 bde88f11a1342cb118cce217a0df0380 *tools/vendor/abseil-cpp/absl/container/internal/raw_hash_set.cc
-9705223c8a18273a7025e2985af560cd *tools/vendor/abseil-cpp/absl/container/internal/raw_hash_set.h
+85f89edb8b27d1bf52c8fc9aca77dc23 *tools/vendor/abseil-cpp/absl/container/internal/raw_hash_set.h
 50ca92974e78ffa1dae961d5351ca16d *tools/vendor/abseil-cpp/absl/container/internal/test_instance_tracker.cc
 d74101b0210d303ccb20cd8ed254d8c1 *tools/vendor/abseil-cpp/absl/container/internal/test_instance_tracker.h
 b2c91b1fd5a05ea12fd76abd5e7401bc *tools/vendor/abseil-cpp/absl/container/internal/tracked.h
